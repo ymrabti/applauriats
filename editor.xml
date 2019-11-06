@@ -1,0 +1,10 @@
+<application>
+  <component name="EditorSettings">
+    <option name="languageBreadcrumbsMap">
+      <map>
+        <entry key="JAVA" value="true" />
+        <entry key="XML" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
